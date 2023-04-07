@@ -1,3 +1,8 @@
 export default function About() {
-  return <h1>About</h1>;
+  return (
+    <div>
+      <h1>About</h1>
+      <p>Hi, This is Wong Ho Yin (R11921104) Website.</p>;
+    </div>
+  )
 }
